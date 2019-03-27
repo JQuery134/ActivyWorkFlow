@@ -12,35 +12,113 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ProcessEngineConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/ProcessEngineConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="359" column="3" lean-forward="true" selection-start-line="359" selection-start-column="3" selection-end-line="359" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StandaloneInMemProcessEngineConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/impl/cfg/StandaloneInMemProcessEngineConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/test/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="39" column="16" lean-forward="false" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1277#1292#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.22.0/activiti-engine-5.22.0-sources.jar!/org/activiti/engine/task/Task.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="26" column="72" lean-forward="true" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activiti.cfg.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/activiti.cfg.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="57" lean-forward="false" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="50" column="39" lean-forward="false" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+            <state relative-caret-position="374">
+              <caret line="34" column="40" lean-forward="false" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activiti.cfg.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/activiti.cfg.xml">
+      <file leaf-file-name="ProcessEngineConfigurationImpl.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/impl/cfg/ProcessEngineConfigurationImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/test/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            <state relative-caret-position="3349">
+              <caret line="426" column="39" lean-forward="false" selection-start-line="426" selection-start-column="4" selection-end-line="426" selection-end-column="39" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#35763#35764#0" expanded="true" />
+                <element signature="e#35821#35822#0" expanded="true" />
+                <element signature="e#35883#35884#0" expanded="true" />
+                <element signature="e#35949#35950#0" expanded="true" />
+                <element signature="e#66235#66236#0" expanded="true" />
+                <element signature="e#66269#66270#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommandConfig.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/impl/interceptor/CommandConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constructor.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/reflect/Constructor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7854">
+              <caret line="508" column="0" lean-forward="false" selection-start-line="508" selection-start-column="0" selection-end-line="510" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleInstantiationStrategy.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.5.RELEASE/spring-beans-4.1.5.RELEASE-sources.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -51,8 +129,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="BpmnFile" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jdbcUrl</find>
+      <find>DEFAULT_MYBATIS_MAPPING_FILE</find>
+      <find>ph0010</find>
+    </findStrings>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -62,9 +148,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/resources/processes/bingfa.bpmn" />
+        <option value="$PROJECT_DIR$/src/main/resources/processes/XASalaryCreditApplyProcessV2.bpmn" />
+        <option value="$PROJECT_DIR$/src/main/resources/activiti.cfg.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/test/Demo.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/activiti.cfg.xml" />
       </list>
     </option>
   </component>
@@ -114,8 +202,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -168,11 +256,52 @@
             </path>
             <path>
               <item name="activityDemoSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="activityDemoSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="processes" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="activityDemoSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.activiti:activiti-engine:5.22.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="activityDemoSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.activiti:activiti-engine:5.22.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="activiti-engine-5.22.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activityDemoSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.activiti:activiti-engine:5.22.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="activiti-engine-5.22.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activityDemoSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.activiti:activiti-engine:5.22.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="activiti-engine-5.22.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="activiti" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activityDemoSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.activiti:activiti-engine:5.22.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="activiti-engine-5.22.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="activiti" type="462c0819:PsiDirectoryNode" />
+              <item name="engine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activityDemoSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.activiti:activiti-engine:5.22.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="activiti-engine-5.22.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="activiti" type="462c0819:PsiDirectoryNode" />
+              <item name="engine" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -192,6 +321,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git\ActivyWorkFlow\activityDemoSSM\src\main\resources\processes" />
       <recent name="E:\git\ActivyWorkFlow\activityDemoSSM\src\main\resources" />
     </key>
   </component>
@@ -317,6 +447,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -327,16 +460,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553592288983</updated>
-      <workItem from="1553592293470" duration="1811000" />
+      <workItem from="1553592293470" duration="5490000" />
+      <workItem from="1553651412417" duration="8591000" />
+      <workItem from="1553667777125" duration="5760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1811000" />
+    <option name="totallyTimeSpent" value="19841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -346,21 +480,21 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3401728" sideWeight="0.35569754" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15228967" sideWeight="0.49568033" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4686825" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31209505" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.4265659" sideWeight="0.4978701" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="BPMN Editor" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="BPMN Editor" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1970181" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49676025" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21458998" sideWeight="0.4883227" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2539936" sideWeight="0.4883227" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.4878049" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22896698" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14323749" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23056443" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.4878049" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4913607" sideWeight="0.6443024" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.046436284" sideWeight="0.6443024" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14110756" sideWeight="0.50431967" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -382,38 +516,671 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/engine/ProcessEngineConfiguration.class</url>
+          <line>128</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/engine/ProcessEngineConfiguration.class</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/engine/impl/cfg/BeansConfigurationHelper.class</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/engine/impl/cfg/BeansConfigurationHelper.class</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/ProcessEngineConfiguration.java</url>
+          <line>227</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/ProcessEngineConfiguration.java</url>
+          <line>231</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/impl/cfg/BeansConfigurationHelper.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/impl/cfg/BeansConfigurationHelper.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/impl/cfg/ProcessEngineConfigurationImpl.java</url>
+          <line>432</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/impl/cfg/ProcessEngineConfigurationImpl.java</url>
+          <line>865</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/impl/cfg/ProcessEngineConfigurationImpl.java</url>
+          <line>425</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/impl/cfg/StandaloneInMemProcessEngineConfiguration.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/impl/cfg/ProcessEngineConfigurationImpl.java</url>
+          <line>570</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/test/Demo.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/impl/cfg/ProcessEngineConfigurationImpl.java</url>
+          <line>433</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="18" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.1.5.RELEASE/spring-core-4.1.5.RELEASE-sources.jar!/org/springframework/core/io/ClassPathResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="61" column="11" lean-forward="false" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/mapping/entity/HistoricDetail.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1553592784083" expanded="true" signature="989:1466" ph="insert into ${prefix}ACT_HI_DETAIL... " />
+            <marker date="1553592784083" expanded="true" signature="3259:3277" ph="SELECT * FRO... dual" />
+            <marker date="1553592784083" expanded="true" signature="3459:4246" ph="insert into ${prefix}ACT_HI_DETAIL... " />
+            <marker date="1553592784083" expanded="true" signature="7395:7413" ph="SELECT * FRO... dual" />
+            <marker date="1553592784083" expanded="true" signature="7516:7568" ph="delete from ${prefix}ACT_HI_DETAIL... " />
+            <marker date="1553592784083" expanded="true" signature="7643:7695" ph="delete from ${prefix}ACT_HI_DETAIL... " />
+            <marker date="1553592784083" expanded="true" signature="7774:7826" ph="delete from ${prefix}ACT_HI_DETAIL... " />
+            <marker date="1553592784083" expanded="true" signature="7889:7941" ph="delete from ${prefix}ACT_HI_DETAIL... " />
+            <marker date="1553592784083" expanded="true" signature="10329:10453" ph="select RES.*... " />
+            <marker date="1553592784083" expanded="true" signature="10613:10634" ph="select count... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/mapping/entity/HistoricVariableInstance.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1553592784083" expanded="true" signature="1016:1791" ph="insert into ${prefix}ACT_HI_VARINST... " />
+            <marker date="1553592784083" expanded="true" signature="4336:4354" ph="SELECT * FRO... dual" />
+            <marker date="1553592784083" expanded="true" signature="4557:5109" ph="update ${prefix}ACT_HI_VARINST... " />
+            <marker date="1553592784083" expanded="true" signature="5312:5388" ph="delete from ${prefix}ACT_HI_VARINST... " />
+            <marker date="1553592784083" expanded="true" signature="7267:7400" ph="select RES.*... " />
+            <marker date="1553592784083" expanded="true" signature="7580:7601" ph="select count... " />
+            <marker date="1553592784083" expanded="true" signature="11385:11456" ph="select * fro... ${prefix}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/mapping/entity/IdentityInfo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1553592784083" expanded="true" signature="383:749" ph="insert into ${prefix}ACT_ID_INFO... " />
+            <marker date="1553592784083" expanded="true" signature="2096:2114" ph="SELECT * FRO... dual" />
+            <marker date="1553592784083" expanded="true" signature="2256:2624" ph="insert into ${prefix}ACT_ID_INFO... " />
+            <marker date="1553592784083" expanded="true" signature="3454:3680" ph="update ${prefix}ACT_ID_INFO... " />
+            <marker date="1553592784083" expanded="true" signature="3823:4051" ph="update ${prefix}ACT_ID_INFO... " />
+            <marker date="1553592784083" expanded="true" signature="4209:4287" ph="delete from ${prefix}ACT_ID_INFO... " />
+            <marker date="1553592784083" expanded="true" signature="5799:5868" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="6002:6071" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="6194:6348" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="6490:6644" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="6758:6917" ph="select KEY_ ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="7037:7118" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="7256:7337" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="7454:7537" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="7672:7755" ph="select * fro... ${prefix}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/mapping/entity/User.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1553592784083" expanded="true" signature="357:634" ph="insert into ${prefix}ACT_ID_USER... " />
+            <marker date="1553592784083" expanded="true" signature="1607:1625" ph="SELECT * FRO... dual" />
+            <marker date="1553592784083" expanded="true" signature="1765:2154" ph="update ${prefix}ACT_ID_USER... " />
+            <marker date="1553592784083" expanded="true" signature="2296:2369" ph="delete from ${prefix}ACT_ID_USER... " />
+            <marker date="1553592784083" expanded="true" signature="3136:3205" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="3368:3482" ph="select RES.*... " />
+            <marker date="1553592784083" expanded="true" signature="3623:3644" ph="select count... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.1.5.RELEASE/spring-core-4.1.5.RELEASE-sources.jar!/org/springframework/util/xml/XmlValidationModeDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="54" column="28" lean-forward="false" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.5.RELEASE/spring-beans-4.1.5.RELEASE-sources.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="96" column="74" lean-forward="false" selection-start-line="96" selection-start-column="71" selection-end-line="96" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/cfg/ProcessEngineConfigurator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/cfg/AbstractProcessEngineConfigurator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.activiti.engine.impl.cfg.StandaloneProcessEngineConfiguration">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.activiti.engine.impl.cfg.StandaloneProcessEngineConfiguration</OriginalElement>
+          <nodes>
+            <node x="77.0" y="0.0">org.activiti.engine.EngineServices</node>
+            <node x="0.0" y="240.0">org.activiti.engine.impl.cfg.StandaloneProcessEngineConfiguration</node>
+            <node x="21.0" y="160.0">org.activiti.engine.impl.cfg.ProcessEngineConfigurationImpl</node>
+            <node x="35.0" y="80.0">org.activiti.engine.ProcessEngineConfiguration</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.activiti.engine.impl.cfg.StandaloneProcessEngineConfiguration" target="org.activiti.engine.impl.cfg.ProcessEngineConfigurationImpl">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.activiti.engine.ProcessEngineConfiguration" target="org.activiti.engine.EngineServices">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.activiti.engine.impl.cfg.ProcessEngineConfigurationImpl" target="org.activiti.engine.ProcessEngineConfiguration">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-202.0" y="-60.0" />
+          <SelectedNodes>
+            <node>org.activiti.engine.impl.cfg.StandaloneProcessEngineConfiguration</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/EngineServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/impl/cfg/StandaloneProcessEngineConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-spring/5.18.0/activiti-spring-5.18.0-sources.jar!/org/activiti/spring/SpringProcessEngineConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="64" column="65" lean-forward="true" selection-start-line="64" selection-start-column="65" selection-end-line="64" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/impl/util/ReflectUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="91" column="28" lean-forward="false" selection-start-line="91" selection-start-column="28" selection-end-line="91" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/db/mapping/mappings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="55" lean-forward="true" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/upgrade/activiti.db2.upgradestep.53.to.54.engine.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/upgrade/activiti.mssql.upgradestep.58.to.59.engine.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/mapping/entity/ProcessDefinition.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="57" lean-forward="false" selection-start-line="43" selection-start-column="57" selection-end-line="43" selection-end-column="57" />
+          <folding>
+            <marker date="1553592784083" expanded="true" signature="411:1243" ph="insert into ${prefix}ACT_RE_PROCDEF... " />
+            <marker date="1553592784083" expanded="true" signature="3728:3746" ph="SELECT * FRO... dual" />
+            <marker date="1553592784083" expanded="true" signature="3927:4212" ph="update ${prefix}ACT_RE_PROCDEF... " />
+            <marker date="1553592784083" expanded="true" signature="4325:4475" ph="update ${prefix}ACT_RE_PROCDEF... " />
+            <marker date="1553592784083" expanded="true" signature="4608:4681" ph="delete from ${prefix}ACT_RE_PROCDEF... " />
+            <marker date="1553592784083" expanded="true" signature="6046:6118" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="6242:6314" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="6513:6640" ph="select RES.*... " />
+            <marker date="1553592784083" expanded="true" signature="6804:6825" ph="select count... " />
+            <marker date="1553592784083" expanded="true" signature="10775:10952" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="11101:11263" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="11398:11677" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="11546:11676" ph="select max(V... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="11818:12083" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="11967:12082" ph="select max(V... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="12320:12456" ph="select disti... " />
+            <marker date="1553592784083" expanded="true" signature="12656:12686" ph="select disti... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/mapping/entity/Resource.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1553592784083" expanded="true" signature="375:625" ph="insert into ${prefix}ACT_GE_BYTEARRAY... " />
+            <marker date="1553592784083" expanded="true" signature="1681:1699" ph="SELECT * FRO... dual" />
+            <marker date="1553592784083" expanded="true" signature="1844:1910" ph="delete from ${prefix}ACT_GE_BYTEARRAY... " />
+            <marker date="1553592784083" expanded="true" signature="2507:2605" ph="select NAME_... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="2735:2856" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="3019:3113" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="3715:3836" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="4050:4144" ph="select * fro... ${prefix}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/mapping/entity/TableData.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1553592784083" expanded="true" signature="447:480" ph="select count... ${tableName}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/mapping/entity/Task.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="43" lean-forward="false" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+          <folding>
+            <marker date="1553592784083" expanded="true" signature="940:2075" ph="insert into ${prefix}ACT_RU_TASK... " />
+            <marker date="1553592784083" expanded="true" signature="4761:4779" ph="SELECT * FRO... dual" />
+            <marker date="1553592784083" expanded="true" signature="4923:5850" ph="update ${prefix}ACT_RU_TASK... " />
+            <marker date="1553592784083" expanded="true" signature="5948:6315" ph="update ${prefix}ACT_RU_TASK... " />
+            <marker date="1553592784083" expanded="true" signature="6062:6307" ph="SELECT T.ID_... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="6623:7139" ph="update ${prefix}ACT_RU_TASK... " />
+            <marker date="1553592784083" expanded="true" signature="6740:7131" ph="SELECT tempT... ID_" />
+            <marker date="1553592784083" expanded="true" signature="6796:7092" ph="SELECT T.ID_... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="7280:7353" ph="delete from ${prefix}ACT_RU_TASK... " />
+            <marker date="1553592784083" expanded="true" signature="12339:12391" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="12548:12619" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="12773:12865" ph="select disti... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="13027:13110" ph="select T.* f... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="13364:13487" ph="select disti... " />
+            <marker date="1553592784083" expanded="true" signature="13625:13655" ph="select count... " />
+            <marker date="1553592784083" expanded="true" signature="14042:14532" ph="select RES.*... " />
+            <marker date="1553592784083" expanded="true" signature="14732:16972" ph="select disti... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/mapping/entity/Attachment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1553592784083" expanded="true" signature="957:1481" ph="insert into ${prefix}ACT_HI_ATTACHMENT... " />
+            <marker date="1553592784083" expanded="true" signature="3200:3218" ph="SELECT * FRO... dual" />
+            <marker date="1553592784083" expanded="true" signature="3376:3632" ph="update ${prefix}ACT_HI_ATTACHMENT... " />
+            <marker date="1553592784083" expanded="true" signature="3790:3874" ph="delete from ${prefix}ACT_HI_ATTACHMENT... " />
+            <marker date="1553592784083" expanded="true" signature="4937:5020" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="5183:5302" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="5476:5600" ph="select * fro... ${prefix}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/mapping/entity/ByteArray.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1553592784083" expanded="true" signature="375:620" ph="insert into ${prefix}ACT_GE_BYTEARRAY... " />
+            <marker date="1553592784083" expanded="true" signature="2080:2098" ph="SELECT * FRO... dual" />
+            <marker date="1553592784083" expanded="true" signature="2256:2453" ph="update ${prefix}ACT_GE_BYTEARRAY... " />
+            <marker date="1553592784083" expanded="true" signature="2586:2671" ph="select BYTES... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="2813:2902" ph="delete from ${prefix}ACT_GE_BYTEARRAY... " />
+            <marker date="1553592784083" expanded="true" signature="3030:3108" ph="delete from ${prefix}ACT_GE_BYTEARRAY... " />
+            <marker date="1553592784083" expanded="true" signature="3198:3253" ph="delete from ${prefix}ACT_GE_BYTEARRAY... " />
+            <marker date="1553592784083" expanded="true" signature="3797:3854" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="4407:4464" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="4599:4798" ph="update ${prefix}ACT_GE_BYTEARRAY... " />
+            <marker date="1553592784083" expanded="true" signature="4939:5186" ph="insert into ${prefix}ACT_GE_BYTEARRAY... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/mapping/entity/Comment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1553592784083" expanded="true" signature="945:1399" ph="insert into ${prefix}ACT_HI_COMMENT... " />
+            <marker date="1553592784083" expanded="true" signature="1530:1986" ph="insert into ${prefix}ACT_HI_COMMENT... " />
+            <marker date="1553592784083" expanded="true" signature="3483:3501" ph="SELECT * FRO... dual" />
+            <marker date="1553592784083" expanded="true" signature="4346:4399" ph="delete from ${prefix}ACT_HI_COMMENT... " />
+            <marker date="1553592784083" expanded="true" signature="4479:4541" ph="delete from ${prefix}ACT_HI_COMMENT... " />
+            <marker date="1553592784083" expanded="true" signature="4633:4711" ph="delete from ${prefix}ACT_HI_COMMENT... " />
+            <marker date="1553592784083" expanded="true" signature="6430:6519" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="6686:6775" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="6929:7075" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="7250:7396" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="7520:7671" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="7813:7964" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="8118:8228" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="8400:8510" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="8663:8781" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="8954:9072" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="9238:9361" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="9543:9666" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="9832:9955" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="10139:10262" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="10435:10605" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="10796:10966" ph="select * fro... ${prefix}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/mapping/entity/Deployment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <marker date="1553592784083" expanded="true" signature="383:634" ph="insert into ${prefix}ACT_RE_DEPLOYMENT... " />
+            <marker date="1553592784083" expanded="true" signature="1720:1738" ph="SELECT * FRO... dual" />
+            <marker date="1553592784083" expanded="true" signature="1898:2073" ph="update ${prefix}ACT_RE_DEPLOYMENT... " />
+            <marker date="1553592784083" expanded="true" signature="2181:2237" ph="delete from ${prefix}ACT_RE_DEPLOYMENT... " />
+            <marker date="1553592784083" expanded="true" signature="2955:3084" ph="select disti... " />
+            <marker date="1553592784083" expanded="true" signature="3234:3264" ph="select count... " />
+            <marker date="1553592784083" expanded="true" signature="4789:4885" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="4997:5055" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="5265:5394" ph="select disti... " />
+            <marker date="1553592784083" expanded="true" signature="5578:5608" ph="select disti... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/mapping/entity/Execution.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4556">
+          <caret line="155" column="102" lean-forward="false" selection-start-line="155" selection-start-column="87" selection-end-line="155" selection-end-column="102" />
+          <folding>
+            <marker date="1553592784083" expanded="true" signature="377:1244" ph="insert into ${prefix}ACT_RU_EXECUTION... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/mapping/entity/VariableInstance.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <marker date="1553592784083" expanded="true" signature="409:1001" ph="insert into ${prefix}ACT_RU_VARIABLE... " />
+            <marker date="1553592784083" expanded="true" signature="2930:2948" ph="SELECT * FRO... dual" />
+            <marker date="1553592784083" expanded="true" signature="3129:3647" ph="update ${prefix}ACT_RU_VARIABLE... " />
+            <marker date="1553592784083" expanded="true" signature="3828:3927" ph="delete from ${prefix}ACT_RU_VARIABLE... " />
+            <marker date="1553592784083" expanded="true" signature="5739:5813" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="5991:6111" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="6253:6409" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="7103:7193" ph="select * fro... ${prefix}" />
+            <marker date="1553592784083" expanded="true" signature="7330:7455" ph="select * fro... ${prefix}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/mapping/mappings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="77" lean-forward="false" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/create/activiti.db2.create.engine.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/create/activiti.mssql.create.engine.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-867">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0.jar!/org/activiti/db/upgrade/activiti.h2.upgradestep.50.to.51.history.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/impl/ProcessEngineImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/impl/cfg/BeansConfigurationHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="34" column="27" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.5.RELEASE/spring-beans-4.1.5.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="514" column="0" lean-forward="false" selection-start-line="514" selection-start-column="0" selection-end-line="514" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/jre/lib/rt.jar!/sun/reflect/DelegatingConstructorAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/jre/lib/rt.jar!/sun/reflect/NativeConstructorAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.5.RELEASE/spring-beans-4.1.5.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.5.RELEASE/spring-beans-4.1.5.RELEASE-sources.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/impl/interceptor/CommandConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/impl/cfg/ProcessEngineConfigurationImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3349">
+          <caret line="426" column="39" lean-forward="false" selection-start-line="426" selection-start-column="4" selection-end-line="426" selection-end-column="39" />
+          <folding>
+            <element signature="e#35763#35764#0" expanded="true" />
+            <element signature="e#35821#35822#0" expanded="true" />
+            <element signature="e#35883#35884#0" expanded="true" />
+            <element signature="e#35949#35950#0" expanded="true" />
+            <element signature="e#66235#66236#0" expanded="true" />
+            <element signature="e#66269#66270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/reflect/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7854">
+          <caret line="508" column="0" lean-forward="false" selection-start-line="508" selection-start-column="0" selection-end-line="510" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/processes/test2_2.bpmn">
+      <provider selected="true" editor-type-id="bpmn-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/processes/test.bpmn">
+      <provider selected="true" editor-type-id="bpmn-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/processes/XASalaryCreditApplyProcessV2.bpmn">
+      <provider selected="true" editor-type-id="bpmn-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/processes/bingfa.bpmn">
+      <provider selected="true" editor-type-id="bpmn-editor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="39" lean-forward="false" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+        <state relative-caret-position="374">
+          <caret line="34" column="40" lean-forward="false" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="39" column="16" lean-forward="false" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1277#1292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.22.0/activiti-engine-5.22.0-sources.jar!/org/activiti/engine/task/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" column="72" lean-forward="true" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/impl/cfg/StandaloneInMemProcessEngineConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.18.0/activiti-engine-5.18.0-sources.jar!/org/activiti/engine/ProcessEngineConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="359" column="3" lean-forward="true" selection-start-line="359" selection-start-column="3" selection-end-line="359" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/activiti.cfg.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="204">
+          <caret line="12" column="57" lean-forward="false" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/processes/test1.bpmn">
-      <provider selected="true" editor-type-id="bpmn-editor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
